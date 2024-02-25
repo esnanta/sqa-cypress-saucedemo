@@ -1,6 +1,6 @@
 # SauceDemo Test
 
-This project contains an automated test scenario for the SauceDemo website using Cypress.
+This project contains an automated test scenario for the SauceDemo website using <a href="https://www.cypress.io/">Cypress</a>.
 
 ## Prerequisites
 
