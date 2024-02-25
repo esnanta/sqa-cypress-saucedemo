@@ -12,7 +12,7 @@ describe('I arrive at product page', () => {
 	cy.get('.title').should('have.text', 'Products')
   })
   
-  it('I see products ordered by alphabet a to z', () => {
+  it('Verify that the inventory page is displayed', () => {
 	const TShirtRed = 'Test.allTheThings() T-Shirt (Red)'
 	
     cy.get('.inventory_item_name').first().should('have.text', 'Sauce Labs Backpack')
