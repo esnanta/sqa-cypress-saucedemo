@@ -10,10 +10,6 @@ This project contains an automated test scenario for the SauceDemo website using
 
 ## Setup
 
-1. Install Node.js.
-2. run (`npm init`)
-3. run (`npm install cypress --save-dev`)
-
 Please read <a href="https://docs.cypress.io/guides/getting-started/installing-cypress">official instruction</a>.
 
 ## Test Scenario
