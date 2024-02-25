@@ -21,10 +21,10 @@ Please read <a href="https://docs.cypress.io/guides/getting-started/installing-c
 The test scenario performs the following steps:
 
 1. Create a browser instance and set up the test environment.
-2. Open the login page and verify the Swag Labs logo.
-3. Login with valid credentials.
+2. Open the login page and verify the Swag Labs logo. &#10004
+3. Login with valid credentials. &#10004
 4. Open the menu to access the Logout button and verify its presence.
-5. Verify that the inventory page is displayed.
+5. Verify that the inventory page is displayed. &#10004
 6. Navigate to the product detail page and verify the product name.
 7. Add the item to the cart and verify the "Remove" button.
 8. Navigate to the shopping cart page and verify the item in the cart.
