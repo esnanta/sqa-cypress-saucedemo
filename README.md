@@ -29,8 +29,3 @@ The test scenario performs the following steps:
 11. Proceed to the confirmation page and verify the item in the overview.
 12. Logout from the website.
 13. Tear down the test environment.
-
-## Running the Test
- 
-
-- The test will be executed with the provided test data (username and password). If the test passes, the message "test passed" will be displayed.
