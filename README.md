@@ -1,6 +1,6 @@
 # SauceDemo Test
 
-This project contains an automated test scenario for the SauceDemo website using Cypress.
+This project contains an automated test scenario for the SauceDemo website using <a href="https://www.cypress.io/">Cypress</a>.
 
 ## Prerequisites
 
@@ -9,10 +9,6 @@ This project contains an automated test scenario for the SauceDemo website using
 - Browser (Chrome, or Firefox, or Electron)
 
 ## Setup
-
-1. Install Node.js.
-2. run (`npm init`)
-3. run (`npm install cypress --save-dev`)
 
 Please read <a href="https://docs.cypress.io/guides/getting-started/installing-cypress">official instruction</a>.
 
@@ -33,8 +29,3 @@ The test scenario performs the following steps:
 11. Proceed to the confirmation page and verify the item in the overview.
 12. Logout from the website.
 13. Tear down the test environment.
-
-## Running the Test
- 
-
-- The test will be executed with the provided test data (username and password). If the test passes, the message "test passed" will be displayed.
